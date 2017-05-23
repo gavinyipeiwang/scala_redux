@@ -1,0 +1,3 @@
+scala -version
+scala -about
+exit
